@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A DInfinit Alugueis é um site focado para alugueis de carros.
 
-Link do projeto: https://github.com/CharllesYeggli/Projeto-Aluguel-Carros
+Link do projeto: https://charllesyeggli.github.io/Projeto-Aluguel-Carros/
 
 
 ## :memo: Licença

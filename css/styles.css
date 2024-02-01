@@ -73,7 +73,7 @@ nav ul li a:hover {
 }
 
 nav ul button {
-  border: 1px solid var(--black);
+  border: 4px solid var(--black);
   background: transparent;
   padding: 8px 40px;
   cursor: pointer;
@@ -484,4 +484,19 @@ footer .last {
     flex-direction: column;
     padding-left: 10%;
   }
+}
+
+h5 {
+  height: 400px;
+  text-align: center;
+  padding-top: 5%;
+  font-size: x-large;
+}
+
+form {
+  text-align: center;
+}
+
+a.no-underline {
+  text-decoration: none;
 }
